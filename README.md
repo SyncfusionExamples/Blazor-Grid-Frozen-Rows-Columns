@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains sample applications that demonstrate frozen rows and frozen columns in the Syncfusion Blazor DataGrid. The samples show how specific rows and columns can remain visible while users scroll through large datasets, improving navigation and data analysis scenarios. The repository includes separate implementations for Blazor Server and Blazor WebAssembly applications and demonstrates DataGrid configurations related to frozen content and movable freeze separators.
+This repository contains sample applications that demonstrate frozen rows and frozen columns in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). The samples show how specific rows and columns can remain visible while users scroll through large datasets, improving navigation and data analysis scenarios. The repository includes separate implementations for Blazor Server and Blazor WebAssembly applications and demonstrates DataGrid configurations related to frozen content and movable freeze separators.
 
 ## Key Features
 
